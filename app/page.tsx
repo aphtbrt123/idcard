@@ -5,7 +5,7 @@ export default function Home() {
 
             <div className="bg-white relative shadow rounded-lg w-5/6 md:w-5/6  lg:w-4/6 xl:w-3/6 mx-auto">
                 <div className="flex justify-center">
-                        <img src="head.png" alt="" className="rounded-full mx-auto absolute -top-20 w-32 h-32 shadow-md border-4 border-white transition duration-200 transform hover:scale-110"/>
+                        <img src="https://media.licdn.com/dms/image/D5603AQFR6KtFQ0TAnA/profile-displayphoto-shrink_800_800/0/1680678444194?e=2147483647&v=beta&t=Zi-W6ivxS79US3-6h5X2lCuHsT0Vgg-NjAzIxyXTeZs" alt="" className="rounded-full mx-auto absolute -top-20 w-32 h-32 shadow-md border-4 border-white transition duration-200 transform hover:scale-110"/>
                 </div>
                 
                 <div className="mt-16">
@@ -17,13 +17,12 @@ export default function Home() {
                         </span>
                     </p>
                     <div className="my-5 px-6">
-                        <a href="#" className="text-gray-200 block rounded-lg text-center font-medium leading-6 px-6 py-3 bg-gray-900 hover:bg-black hover:text-white">Connect with <span className="font-bold">@aphtbrt</span></a>
+                        <a href="https://www.linkedin.com/in/andre-hutabarat-238761200/" className="text-gray-200 block rounded-lg text-center font-medium leading-6 px-6 py-3 bg-gray-900 hover:bg-black hover:text-white">Connect with <span className="font-bold">@aphtbrt</span></a>
                     </div>
                     <div className="flex justify-between items-center my-5 px-6">
-                        <a href="" className="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Facebook</a>
-                        <a href="" className="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Twitter</a>
-                        <a href="" className="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Instagram</a>
-                        <a href="" className="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Email</a>
+                        <a href="https://www.linkedin.com/in/andre-hutabarat-238761200/" className="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">LinkedIn</a>
+                        <a href="https://twitter.com/AndreHu23211093" className="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Twitter</a>
+                        <a href="https://www.instagram.com/aphtbrt/" className="text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition duration-150 ease-in font-medium text-sm text-center w-full py-3">Instagram</a>
                     </div>
 
                     <div className="w-full">
