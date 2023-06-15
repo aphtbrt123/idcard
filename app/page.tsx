@@ -1,3 +1,5 @@
+import Image from "next/image"
+
 export default function Home() {
   return (
     <div className="container mx-auto my-60">
@@ -5,7 +7,7 @@ export default function Home() {
 
             <div className="bg-white relative shadow rounded-lg w-5/6 md:w-5/6  lg:w-4/6 xl:w-3/6 mx-auto">
                 <div className="flex justify-center">
-                        <img src="https://media.licdn.com/dms/image/D5603AQFR6KtFQ0TAnA/profile-displayphoto-shrink_800_800/0/1680678444194?e=2147483647&v=beta&t=Zi-W6ivxS79US3-6h5X2lCuHsT0Vgg-NjAzIxyXTeZs" alt="" className="rounded-full mx-auto absolute -top-20 w-32 h-32 shadow-md border-4 border-white transition duration-200 transform hover:scale-110"/>
+                        <Image src='/andre.jpg' width={520} height={280} alt="andre's photo" className="rounded-full mx-auto absolute -top-20 w-32 h-32 shadow-md border-4 border-white transition duration-200 transform hover:scale-110"/>
                 </div>
                 
                 <div className="mt-16">
